@@ -18,12 +18,10 @@ logging.info(msg)
 #arcpy.AddMessage(msg)
 ```
 ## Contributing
+欢迎提交请求。对于重大更改，请先打开issue
+讨论你想改变什么。
 
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
+请确保适当地更新测试。
 
-Please make sure to update tests as appropriate.
 
-## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
